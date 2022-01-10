@@ -1,6 +1,6 @@
 public class SorterManager {
 
-    public SorterManager(Sorter sorter) {
+    public void sort(Sorter sorter) {
         sorter.sort();
     }
 }
